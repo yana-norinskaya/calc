@@ -1,6 +1,6 @@
 const input = document.querySelectorAll('input'),
     result = document.querySelector('#result');
-
+//calc
 let resCalc;
 input.forEach(item => {
     item.addEventListener('click', e => {
